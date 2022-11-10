@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/nvim-tree/nvim-tree.lua/actions/workflows/ci.yml/badge.svg)](https://github.com/nvim-tree/nvim-tree.lua/actions/workflows/ci.yml)
 
-<img align="left" width="206" height="488" src="./img/nvim_tree1.png">
+<img align="left" width="206" height="488" src="https://user-images.githubusercontent.com/46809008/201087586-9c77d63c-242b-4f87-9f96-2eae3ab8db44.png">
 
 Automatic updates
 
